@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.screen{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.full{
+ width: 80vw;
+ display: flex;
+justify-content: center;
+}
+h1{
+    align-items: "center";
+    color: green;
+}
+.left{
+    
+     background-color: aqua;
+    width : 30%;
+    height: 100vh;
+    border: 2px solid black;
+    justify-content: center;
+}
+.right{
+    background-color: rgb(25, 101, 101);
+    width : 70%;
+    height: 100vh;
+    border: 2px solid red;
+}
+
